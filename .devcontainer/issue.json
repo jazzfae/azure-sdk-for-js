@@ -1,5 +1,5 @@
 {
-  "name": "GitHub Codespaces (Default)",
+  "name": "GitHub Codespaces",
   "remoteUser": "codespace",
   "overrideCommand": false,
   "workspaceMount": "source=${localWorkspaceFolder},target=/home/codespace/workspace,type=bind,consistency=cached",
